@@ -15,7 +15,7 @@ The conversation mission deck consists of an Arduino Uno board, Liquid Crystal D
 
 ![image](https://github.com/user-attachments/assets/8129e1a8-21e4-47e2-bbd0-1acdfba3d144)
 ![image](https://github.com/user-attachments/assets/4a347829-c3af-486b-84e5-56df4bddae3e)
-
+![image](https://github.com/user-attachments/assets/3ad9a65a-08fc-4de6-b517-993a6216c061)
 
 **Usage instructions**
 - Controller module: Three buttons are set up on the breadboard to control different prompts and mission sets used for tourist groups at different locations and times.
